@@ -31,4 +31,4 @@ Twitter:
 https://twitter.com/BotWendly
 
 Telegram:
-https://t.me/WendlyTrading
+https://t.me/WendlyBotTrading
