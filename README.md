@@ -5,7 +5,7 @@ The ultimate user experience trading bot for BSC.
 - Limit Buy/Stop Loss
 - Maximum Security (Anti Honeypot, High tax detection ...)
 - Test for FREE 
-- Full features in [Wendly Bot website](https://tonytaka30.gitbook.io/wendlybot/ "Wendly Bot")
+- Full features in [Wendly Bot website](https://tonytaka30.gitbook.io/wendlybot/ "Wendly Bot Website")
    
 
 # How to Install: 
@@ -15,7 +15,7 @@ The ultimate user experience trading bot for BSC.
 
 3. Unzip it
 
-4. Edit "settings.json" and "token.json"
+4. Edit "settings.json" and "token.json" (See [wiki](https://tonytaka30.gitbook.io/wendlybot/ "Wendly Bot Website") how to fill details)
 
 5. Run "Wendly Bot.exe"
 
