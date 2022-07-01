@@ -33,6 +33,8 @@ You can try the bot for **FREE**, All features are enabled.
 
 ✔ Support "WSS" & "HTTP" Nodes
 
+✔ Supported Exchanges: PancakeSwap - ApeSwap - BabySwap - BiSwap - BUSTASwap . . .
+
 ✔ Auto (Find Trading Pair, Approve Token, Find Tax & Gas, Calculate Slippage & Price Impact)
 
 ✔ Multi Buy/Sell Positions
