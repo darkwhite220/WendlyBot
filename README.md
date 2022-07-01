@@ -14,7 +14,7 @@
 
 ## Description:
 
-Built around Speed, Transparency, Advanced yet Easy to use Wendly bot give you total control over your trades, from maximum security checks to direct buy/sell for big gains, while displaying meaningful data. 
+Built around Speed, Transparency, Advanced features yet Easy to use Wendly bot give you total control over your trades, from maximum security checks to direct buy/sell for big gains, while displaying meaningful data. 
 
 
 ## Features:
